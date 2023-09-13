@@ -24,15 +24,15 @@ string FizzBuzz(int num)  /// have to remove access modifier "public" before com
         return result;
     }
     else 
-    {return "NA";}
+    {return "";}
 }
 
-Console.WriteLine(FizzBuzz(2));
-Console.WriteLine(FizzBuzz(3));
-Console.WriteLine(FizzBuzz(4));
-Console.WriteLine(FizzBuzz(5));
-Console.WriteLine(FizzBuzz(9));
-Console.WriteLine(FizzBuzz(10));
-Console.WriteLine(FizzBuzz(12));
-Console.WriteLine(FizzBuzz(15));
-Console.WriteLine(FizzBuzz(20));
+Console.WriteLine(FizzBuzz(2) +  "--2");
+Console.WriteLine(FizzBuzz(3) + "--3");
+Console.WriteLine(FizzBuzz(4) + "--4");
+Console.WriteLine(FizzBuzz(5) + "--5");
+Console.WriteLine(FizzBuzz(9) + "--9");
+Console.WriteLine(FizzBuzz(10) + "--10");
+Console.WriteLine(FizzBuzz(12) + "--12");
+Console.WriteLine(FizzBuzz(15) + "--15");
+Console.WriteLine(FizzBuzz(20) + "--20");
