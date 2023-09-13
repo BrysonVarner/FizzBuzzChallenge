@@ -1,0 +1,14 @@
+C:\Users\cypri\repos\CsharpProjects\FizzBuzzChallenge\obj\Debug\net7.0\FizzBuzzChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cypri\repos\CsharpProjects\FizzBuzzChallenge\obj\Debug\net7.0\FizzBuzzChallenge.AssemblyInfoInputs.cache
+C:\Users\cypri\repos\CsharpProjects\FizzBuzzChallenge\obj\Debug\net7.0\FizzBuzzChallenge.AssemblyInfo.cs
+C:\Users\cypri\repos\CsharpProjects\FizzBuzzChallenge\obj\Debug\net7.0\FizzBuzzChallenge.csproj.CoreCompileInputs.cache
+C:\Users\cypri\repos\CsharpProjects\FizzBuzzChallenge\bin\Debug\net7.0\FizzBuzzChallenge.exe
+C:\Users\cypri\repos\CsharpProjects\FizzBuzzChallenge\bin\Debug\net7.0\FizzBuzzChallenge.deps.json
+C:\Users\cypri\repos\CsharpProjects\FizzBuzzChallenge\bin\Debug\net7.0\FizzBuzzChallenge.runtimeconfig.json
+C:\Users\cypri\repos\CsharpProjects\FizzBuzzChallenge\bin\Debug\net7.0\FizzBuzzChallenge.dll
+C:\Users\cypri\repos\CsharpProjects\FizzBuzzChallenge\bin\Debug\net7.0\FizzBuzzChallenge.pdb
+C:\Users\cypri\repos\CsharpProjects\FizzBuzzChallenge\obj\Debug\net7.0\FizzBuzzChallenge.dll
+C:\Users\cypri\repos\CsharpProjects\FizzBuzzChallenge\obj\Debug\net7.0\refint\FizzBuzzChallenge.dll
+C:\Users\cypri\repos\CsharpProjects\FizzBuzzChallenge\obj\Debug\net7.0\FizzBuzzChallenge.pdb
+C:\Users\cypri\repos\CsharpProjects\FizzBuzzChallenge\obj\Debug\net7.0\FizzBuzzChallenge.genruntimeconfig.cache
+C:\Users\cypri\repos\CsharpProjects\FizzBuzzChallenge\obj\Debug\net7.0\ref\FizzBuzzChallenge.dll
